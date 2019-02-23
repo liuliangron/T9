@@ -27,6 +27,13 @@
 		</dependency>
 
 
+		<!-- https://mvnrepository.com/artifact/org.eclipse.jdt/org.eclipse.jdt.launching -->
+		<dependency>
+			<groupId>org.eclipse.jdt</groupId>
+			<artifactId>org.eclipse.jdt.launching</artifactId>
+			<version>3.12.0</version>
+		</dependency>
+
 
 
 
